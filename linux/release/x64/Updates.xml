@@ -4,21 +4,21 @@
  <Checksum>true</Checksum>
  <PackageUpdate>
   <Name>Degate</Name>
-  <DisplayName>Degate 2.0.0-beta.1</DisplayName>
+  <DisplayName>Degate 2.0.0</DisplayName>
   <Description>Degate : open-source software for chips reverse engineering.</Description>
-  <Version>2.0.0-1.1</Version>
-  <ReleaseDate>2021-01-03</ReleaseDate>
+  <Version>2.0.0-3.0</Version>
+  <ReleaseDate>2021-04-11</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="146769139" OS="Any" CompressedSize="35533792"/>
+  <UpdateFile CompressedSize="35998695" UncompressedSize="148550899" OS="Any"/>
   <DownloadableArchives>doc.7z,lib.7z,plugins.7z,translations.7z,content.7z</DownloadableArchives>
   <UserInterfaces>ReadMeCheckBoxForm.ui,DesktopShortcutCheckBoxForm.ui,StartMenuShortcutCheckBoxForm.ui</UserInterfaces>
   <Translations>en.qm,fr.qm,de.qm,es.qm,ru.qm,it.qm,ko.qm</Translations>
   <Licenses>
-   <License file="LICENSE.TXT" name="GNU General Public License Version 3"/>
+   <License name="GNU General Public License Version 3" file="LICENSE.TXT"/>
   </Licenses>
-  <SHA1>c1b09b3ff9cbe72ed5348e9cde516679e7942ff1</SHA1>
+  <SHA1>2cb21c1e960638f2e260b9b5e2aa7d83aed132b7</SHA1>
  </PackageUpdate>
- <SHA1>c1b09b3ff9cbe72ed5348e9cde516679e7942ff1</SHA1>
- <MetadataName>2021-01-03-1406_meta.7z</MetadataName>
+ <SHA1>2cb21c1e960638f2e260b9b5e2aa7d83aed132b7</SHA1>
+ <MetadataName>2021-04-11-0917_meta.7z</MetadataName>
 </Updates>
