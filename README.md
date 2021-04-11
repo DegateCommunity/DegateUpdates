@@ -37,6 +37,7 @@ This repository store Degate updates. It's here every maintenance tool (see Qt I
 ## Create a release/pre-release
 
 To create a release/pre-release you need to:
+- Check deploy scripts (mostly URL links, like ifw ones).
 - Change the version in the VERSION file of the main Degate repository (add a release date).
 - Merge the develop branch in the master branch (also in the release and hotfix branches).
 - Trigger manually the three github actions : "Windows deploy", "Linux deploy" and "Mac deploy".
